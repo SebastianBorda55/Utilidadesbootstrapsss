@@ -1,5 +1,5 @@
 .alignH{
-    background-color: #00abf0;
+    background-color: #3e7b93;
      
     margin-top: 20px;
 }
@@ -9,4 +9,10 @@
     padding: 40px;
     border: 1px solid #4d5061;
 
+}
+
+.alignV{
+    background: #e9cf38;
+    margin-top: 20px;
+    height: 15rem;
 }
